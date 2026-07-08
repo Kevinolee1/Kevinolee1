@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Cyber Security Practice</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating A VM Honypot)
 
 
 <h2>📺 Popular YouTube Videos</h2>
