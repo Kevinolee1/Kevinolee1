@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Cyber Security Practice</b>
-- [Creating a VM Honypot](https://github.com/users/Kevinolee1/projects/2/settings)
+- [Creating a VM Honypot](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
 
 
 <h2>📺 Popular YouTube Videos</h2>
