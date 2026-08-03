@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> Cyber Security Practice</b>
+- <b> Creating a SIEM home lab</b>
 - [Creating a VM Honypot](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
 
 
