@@ -4,7 +4,7 @@
 
 - <b> Creating SOC + SIEM home lab</b>
 - [Creating a VM Honypot](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
-
+- [Configurating log analytics](https://github.com/Kevinolee1/Creating-a-Log-Repository.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
