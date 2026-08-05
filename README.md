@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> Creating SOC + SIEM home lab</b>
+- <b> Creating SOC + SIEM Home Lab With Microsoft Azura</b>
 - [Creating a VM Honypot](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
 - [Configurating Log Analytics and Connecting It To The VM](https://github.com/Kevinolee1/Creating-a-Log-Repository.git)
 - [Querying Log Repository with KQL](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL.git)
