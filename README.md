@@ -8,6 +8,7 @@
 - [Querying Log Repository with KQL](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL.git)
 - [Uploading a Geolocation Data to SIEM and Creating an Attack Map](https://github.com/Kevinolee1/Uploading-a-Geolocation-Data-to-the-Siem-and-Creating-an-Attack-Map.git)
 - <b> Creating a Help Desk Ticket Database</b>
+- [Installing and Configurating Ostiket](https://github.com/Kevinolee1/Installing-and-configurating-osTicket.git)
 - [Installing and Configurating Xampp](https://github.com/Kevinolee1/Installing-and-Configurating-Xampp.git)
 <h2>📺 Popular YouTube Videos</h2>
 
