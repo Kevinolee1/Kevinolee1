@@ -10,7 +10,7 @@
 - <b> Creating a Help Desk Ticket Database</b>
 - [Installing and Configurating Xampp](https://github.com/Kevinolee1/Installing-and-Configurating-Xampp.git)
 - [Installing and Configurating Ostiket](https://github.com/Kevinolee1/Installing-and-configurating-osTicket.git)
-- <b> Creating help desk ticket </b>
+- <b> Creating and Analyzing (SOC) tickets </b>
 - [Creating a Suspicious Login Ticket](https://github.com/Kevinolee1/Creating-Suspicious-Login-Ticket.git)
 <h2>📺 Popular YouTube Videos</h2>
 
