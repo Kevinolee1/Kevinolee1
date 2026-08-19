@@ -14,6 +14,7 @@
 - Suspicious Login Ticket
 - [Creating a Suspicious Login Ticket](https://github.com/Kevinolee1/Creating-Suspicious-Login-Ticket.git)
 - [Analyzing a Suspicious Login As a SOC-L1](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1.git)
+- [Analyzing and Resolving a Suspicious Login As a SOC-L2](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2.git)
 <h2>📺 Popular YouTube Videos</h2>
 
 
