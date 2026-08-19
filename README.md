@@ -22,6 +22,7 @@
 - Suspicious Outbound Connection Ticket
 - [Creating a Suspicious Outbound Connection ticket and assigning it to a SOC L1](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1.git)
 - [Analyzing-and-Escalating-a-Suspicious-Outbound-Connection-Ticket-as-a-SOC-L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Suspicious-Network-Connection-Ticket-as-a-SOC-L1.git)
+- [Analyzing and Resolving a Suspicious Outbound Connection As a SOC L2](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Outbound-Connection-As-a-SOC-L2.git
 <h2>📺 Popular YouTube Videos</h2>
 
 
