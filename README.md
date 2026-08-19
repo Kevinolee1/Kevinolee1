@@ -26,7 +26,8 @@
 - Phishing Alert Ticket
 - [Creating a Phishing Alert ticket and assigning it to a SOC-L1](https://github.com/Kevinolee1/Creating-a-Phishing-Alert-ticket-and-assigning-it-to-a-SOC-L1.git)
 - [Analyzing and Resolving a Phishing Alert Ticket as a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Phishing-Alert-Ticket-as-a-SOC-L1.git)
-- Vulnerability Detected Ticket  
+- Vulnerability Detected Ticket
+- [Creating a Vulnerability Detected ticket and assigning it to a SOC L1](https://github.com/Kevinolee1/Creating-a-Vulnerability-Detected-ticket-and-assigning-it-to-a-SOC-L1.git)  
 <h2>📺 Popular YouTube Videos</h2>
 
 
