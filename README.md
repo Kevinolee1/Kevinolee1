@@ -11,7 +11,9 @@
 - [Installing and Configurating Xampp](https://github.com/Kevinolee1/Installing-and-Configurating-Xampp.git)
 - [Installing and Configurating Ostiket](https://github.com/Kevinolee1/Installing-and-configurating-osTicket.git)
 - <b> Creating and Analyzing (SOC) tickets </b>
+- Suspicious Login Ticket
 - [Creating a Suspicious Login Ticket](https://github.com/Kevinolee1/Creating-Suspicious-Login-Ticket.git)
+- [Analyzing a Suspicious Login As a SOC-L1](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1.git)
 <h2>📺 Popular YouTube Videos</h2>
 
 
