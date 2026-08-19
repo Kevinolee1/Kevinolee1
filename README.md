@@ -13,6 +13,7 @@
 - <b> Creating and Analyzing (SOC) tickets </b>
 - Malware Detected Ticket
 - [Creating a Malware Detected ticket and Assigning It To a SOC L1](https://github.com/Kevinolee1/Creating-a-Malware-Detected-Ticket.git)
+- [Analyzing and Escalating a Malware Detected Ticket As a SOC-L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Malware-Detected-Ticket-As-a-SOC-L1-.git)
 - Suspicious Login Ticket
 - [Creating a Suspicious Login Ticket](https://github.com/Kevinolee1/Creating-Suspicious-Login-Ticket.git)
 - [Analyzing a Suspicious Login As a SOC-L1](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1.git)
