@@ -13,6 +13,7 @@
 - <b> Creating and Analyzing (SOC) tickets </b>
 - Potential Data Exfiltration ticket
 - [Creating a Potential Data Exfiltration ticket and Assigning It To a SOC L1](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1.git)
+- [Analyzing and Escalating a Potential Data Exfiltration Ticket As a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Data-Exfiltration-Ticket-As-a-SOC-L1.git)
 - Malware Detected Ticket
 - [Creating a Malware Detected ticket and Assigning It To a SOC L1](https://github.com/Kevinolee1/Creating-a-Malware-Detected-Ticket.git)
 - [Analyzing and Escalating a Malware Detected Ticket As a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Malware-Detected-Ticket-As-a-SOC-L1-.git)
