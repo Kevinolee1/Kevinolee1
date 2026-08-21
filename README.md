@@ -35,7 +35,9 @@
 - [Analyzing and Escalating a Vulnerability Detected Ticket as a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a--Vulnerability-Detected-Ticket-as-a-SOC-L1.git)
 - Potential Brute Force Attack ticket
 - [Creating a Potential Brute Force Attack ticket and Assigning It To a SOC L1](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1.git)
+- [Analyzing and Escalating a Potential Brute force Attack Ticket as a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1.git)
 <h2>📺 Popular YouTube Videos</h2>
+
 
 
 
