@@ -33,6 +33,8 @@
 - Vulnerability Detected Ticket
 - [Creating a Vulnerability Detected ticket and assigning it to a SOC L1](https://github.com/Kevinolee1/Creating-a-Vulnerability-Detected-ticket-and-assigning-it-to-a-SOC-L1.git)
 - [Analyzing and Escalating a Vulnerability Detected Ticket as a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a--Vulnerability-Detected-Ticket-as-a-SOC-L1.git)
+- Potential Brute Force Attack ticket
+- [Creating a Potential Brute Force Attack ticket and Assigning It To a SOC L1](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1.git)
 <h2>📺 Popular YouTube Videos</h2>
 
 
