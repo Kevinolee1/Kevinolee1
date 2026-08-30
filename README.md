@@ -4,24 +4,20 @@
 
 - <b> Creating SOC + SIEM Home Lab With Microsoft Azura 2026</b>
 - What I Built
-- [Deployed a vulnerable VM/honeypot environment](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
-- [Configured centralized log collection and Connected the environment to a SIEM](https://github.com/Kevinolee1/Creating-a-Log-Repository.git)
+- [Creating a VM Honeypot](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
+- Deployed and configured a Microsoft Azure VM honeypot to attract and monitor unauthorized activity. Used the environment to collect security events and analyze potential attack behavior.
+- [Configuring Log Analytics and Connecting It to the VM](https://github.com/Kevinolee1/Creating-a-Log-Repository.git)
+- Configured Azure Log Analytics to collect and centralize security telemetry from the VM. Established centralized logging to support security monitoring, investigation, and event correlation.
 - [Queried security events using KQL](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL.git)
-- [Visualized attack activity geographically](https://github.com/Kevinolee1/Uploading-a-Geolocation-Data-to-the-Siem-and-Creating-an-Attack-Map.git)
+- Used Kusto Query Language (KQL) to search and analyze collected security logs, identify suspicious activity, and investigate security events within the SIEM environment.
+- [Uploading Geolocation Data to the SIEM and Creating an Attack Map](https://github.com/Kevinolee1/Uploading-a-Geolocation-Data-to-the-Siem-and-Creating-an-Attack-Map.git)
+- Enriched security event data with geolocation information and created an attack visualization to identify the geographic origin of suspicious activity and support threat analysis.
 - <b> Creating a Help Desk Ticket Database</b>
 - [Installing and Configurating Xampp](https://github.com/Kevinolee1/Installing-and-Configurating-Xampp.git)
 - [Installing and Configurating Ostiket](https://github.com/Kevinolee1/Installing-and-configurating-osTicket.git)
 - <b> SOC Incident Management & Ticketing Lab </b>
 - <b> Technologies:</b> osTicket | XAMPP | MySQL
 - <b> Demonstrated:</b>
-- Alert intake
-- Ticket creation
-- Incident categorization
-- SOC L1 investigation
-- Escalation to SOC L2
-- Incident resolution
-- Analyst documentation
-- Potential Data Exfiltration ticket
 - [Creating a Potential Data Exfiltration ticket and Assigning It To a SOC L1](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1.git)
 - [Analyzing and Escalating a Potential Data Exfiltration Ticket As a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Data-Exfiltration-Ticket-As-a-SOC-L1.git)
 - [Analyzing and Resolving Potential Data Exfiltration Ticket As a SOC L2](https://github.com/Kevinolee1/Analyzing-and-Resolving-Potential-Data-Exfiltration-Ticket-As-a-SOC-L2.git)
