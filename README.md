@@ -13,6 +13,14 @@
 - [Installing and Configurating Ostiket](https://github.com/Kevinolee1/Installing-and-configurating-osTicket.git)
 - <b> SOC Incident Management & Ticketing Lab </b>
 - <b> Technologies:</b> osTicket | XAMPP | MySQL
+- <b> Demonstrated:</b>
+- Alert intake
+- Ticket creation
+- Incident categorization
+- SOC L1 investigation
+- Escalation to SOC L2
+- Incident resolution
+- Analyst documentation
 - Potential Data Exfiltration ticket
 - [Creating a Potential Data Exfiltration ticket and Assigning It To a SOC L1](https://github.com/Kevinolee1/Creating-a-Potential-Data-Exfiltration-ticket-and-Assigning-It-To-a-SOC-L1.git)
 - [Analyzing and Escalating a Potential Data Exfiltration Ticket As a SOC L1](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Data-Exfiltration-Ticket-As-a-SOC-L1.git)
