@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/Kevinolee1">Cyber Security Professional</a>, 
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/Kevinolee1">CompTIA Security+ | Cybersecurity Analyst | SOC Analyst</a>, 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
