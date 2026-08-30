@@ -3,10 +3,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Creating SOC + SIEM Home Lab With Microsoft Azura 2026</b>
-- [Creating a VM Honypot](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
-- [Configurating Log Analytics and Connecting It To The VM](https://github.com/Kevinolee1/Creating-a-Log-Repository.git)
-- [Querying Log Repository with KQL](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL.git)
-- [Uploading a Geolocation Data to SIEM and Creating an Attack Map](https://github.com/Kevinolee1/Uploading-a-Geolocation-Data-to-the-Siem-and-Creating-an-Attack-Map.git)
+- What I Built
+- [Deployed a vulnerable VM/honeypot environment](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure.git)
+- [Configured centralized log collection and Connected the environment to a SIEM](https://github.com/Kevinolee1/Creating-a-Log-Repository.git)
+- [Queried security events using KQL](https://github.com/Kevinolee1/Querying-a-log-repository-with-KQL.git)
+- [Visualized attack activity geographically](https://github.com/Kevinolee1/Uploading-a-Geolocation-Data-to-the-Siem-and-Creating-an-Attack-Map.git)
 - <b> Creating a Help Desk Ticket Database</b>
 - [Installing and Configurating Xampp](https://github.com/Kevinolee1/Installing-and-Configurating-Xampp.git)
 - [Installing and Configurating Ostiket](https://github.com/Kevinolee1/Installing-and-configurating-osTicket.git)
