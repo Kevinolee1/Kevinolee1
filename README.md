@@ -66,6 +66,8 @@
 - [Analyzing and Resolving a Potential Brute Force Attack Ticket As a SOC L2](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Potential-Brute-Force-Attack-As-a-SOC-L2.git)
 - Performed advanced analysis of a potential brute force attack, reviewed authentication activity and investigation findings, determined the appropriate response, and documented the resolution.
 - <b> 🤖 Cybersecurity Automation Projects</b>
+- SOC IOC Investigation & Threat Intelligence Automation
+- Python-based SOC automation tool that validates IP addresses, domains, URLs, and file hashes, queries threat-intelligence sources, correlates results, classifies risk, and generates analyst-ready investigation reports.
 
 
 
