@@ -73,7 +73,7 @@
 - [Domain & URL Investigation](https://github.com/Kevinolee1/Domain-URL-Investigation.git)
 - [IP Reputation Investigation](https://github.com/Kevinolee1/IP-Reputation-Investigation.git)
 - [Automated Risk Scoring](https://github.com/Kevinolee1/Automated-Risk-Scoring.git)
-- [Automated SOC Investigation Report]
+- [Automated SOC Investigation Report](https://github.com/Kevinolee1/Automated-SOC-Investigation-Report.git)
 
 
 
