@@ -65,7 +65,8 @@
 - Investigated suspicious authentication activity for indicators of a potential brute force attack, documented findings, assessed the security risk, and escalated the incident for additional analysis.
 - [Analyzing and Resolving a Potential Brute Force Attack Ticket As a SOC L2](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Potential-Brute-Force-Attack-As-a-SOC-L2.git)
 - Performed advanced analysis of a potential brute force attack, reviewed authentication activity and investigation findings, determined the appropriate response, and documented the resolution.
-<h2>📺 Popular YouTube Videos</h2>
+- <b> 🤖 Cybersecurity Automation Projects</b>
+
 
 
 
