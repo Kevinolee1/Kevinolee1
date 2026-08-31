@@ -69,6 +69,7 @@
 - SOC IOC Investigation & Threat Intelligence Automation
 - Python-based SOC automation tool that validates IP addresses, domains, URLs, and file hashes, queries threat-intelligence sources, correlates results, classifies risk, and generates analyst-ready investigation reports.
 - [VirusTotal API Hash Investigation](https://github.com/Kevinolee1/VirusTotal-API-Hash-Investigation.git)
+- [Automatic IOC-Type Detection]
 
 
 
