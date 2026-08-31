@@ -71,7 +71,8 @@
 - [VirusTotal API Hash Investigation](https://github.com/Kevinolee1/VirusTotal-API-Hash-Investigation.git)
 - [Automatic IOC Type Detection](https://github.com/Kevinolee1/Automatic-IOC-Type-Detection-.git)
 - [Domain & URL Investigation](https://github.com/Kevinolee1/Domain-URL-Investigation.git)
-- [IP Reputation Investigation]()
+- [IP Reputation Investigation](https://github.com/Kevinolee1/IP-Reputation-Investigation.git)
+- [Automated Risk Scoring]
 
 
 
