@@ -75,7 +75,7 @@
 - [Automated Risk Scoring](https://github.com/Kevinolee1/Automated-Risk-Scoring.git)
 - [Automated SOC Investigation Report](https://github.com/Kevinolee1/Automated-SOC-Investigation-Report.git)
 - **Vulnerability Research & CVE Discovery**
-- [Research Environment]
+- [Vulnerability Research Environment](https://github.com/Kevinolee1/Vulnerability-Research-Environment-/blob/9092b0d24200821ffdd81724ae9e5a35c384599e/README.md)
 
 
 
