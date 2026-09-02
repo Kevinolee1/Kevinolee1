@@ -77,6 +77,7 @@
 - **Vulnerability Research & CVE Discovery**
 - [Vulnerability Research Environment](https://github.com/Kevinolee1/Vulnerability-Research-Environment-/blob/9092b0d24200821ffdd81724ae9e5a35c384599e/README.md)
 - [Target Selection]
+- [Attack Surface Mapping]
 
 
 
