@@ -94,8 +94,35 @@ common Windows, network connectivity, DHCP, DNS, Wi-Fi, and Ethernet issues.
 - [IP Reputation Investigation](https://github.com/Kevinolee1/IP-Reputation-Investigation.git)
 - [Automated Risk Scoring](https://github.com/Kevinolee1/Automated-Risk-Scoring.git)
 - [Automated SOC Investigation Report](https://github.com/Kevinolee1/Automated-SOC-Investigation-Report.git)
-- **Vulnerability Research & CVE Discovery**
-- [Vulnerability Research Environment](https://github.com/Kevinolee1/Vulnerability-Research-Environment-/blob/9092b0d24200821ffdd81724ae9e5a35c384599e/README.md)
+
+- # Vulnerability Research & Penetration Testing Lab
+
+## Calibre-Web NextGen Security Assessment
+
+A hands-on white-box penetration testing and vulnerability research project focused on identifying, analyzing, and validating potential security vulnerabilities in an open-source web application.
+
+### Project Workflow
+Attack Surface Mapping → Static Analysis → Vulnerability Discovery → Dynamic Testing → Exploit Validation → Proof of Concept → Remediation Analysis → Responsible Disclosure
+
+### Security Tools
+- Semgrep
+- CodeQL
+- Burp Suite
+- Python
+- Git/GitHub
+- Browser Developer Tools
+
+### Testing Areas
+- Authentication
+- Authorization / Access Control
+- SQL Injection
+- Open Redirects
+- OAuth/OIDC Security
+- LDAP Authentication
+- Input Validation
+- Web Application Security
+
+- [Vulnerability Research Environment](https://github.com/Kevinolee1/Vulnerability-Research-  Environment-/blob/9092b0d24200821ffdd81724ae9e5a35c384599e/README.md)
 - [Target Selection](https://github.com/Kevinolee1/Target-Selection.git)
 - [Attack Surface Mapping](https://github.com/Kevinolee1/Attack-Surface-Mapping.git)
 - [Static Analysis](https://github.com/Kevinolee1/Static-Analysis.git)
