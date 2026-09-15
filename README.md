@@ -12,7 +12,7 @@ common Windows, network connectivity, DHCP, DNS, Wi-Fi, and Ethernet issues.
   - Demonstrated a structured troubleshooting process using ipconfig, ping,
     DHCP, default gateway testing, DNS testing, and nslookup.
 
-- [Troubleshooting DHCP and APIPA](YOUR_VIDEO_LINK)
+- [Troubleshooting DHCP and APIPA](https://youtu.be/ZH8t9Q4FguI)
   - Diagnosed an APIPA address (169.254.x.x), renewed the DHCP lease,
     verified the default gateway, and tested network connectivity.
 
