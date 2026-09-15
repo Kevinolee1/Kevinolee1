@@ -122,7 +122,7 @@ Attack Surface Mapping → Static Analysis → Vulnerability Discovery → Dynam
 - Input Validation
 - Web Application Security
 
--### Current Progress
+### Current Progress
 - [Vulnerability Research Environment](https://github.com/Kevinolee1/Vulnerability-Research-Environment-/blob/9092b0d24200821ffdd81724ae9e5a35c384599e/README.md)
 - [Target Selection](https://github.com/Kevinolee1/Target-Selection.git)
 - [Attack Surface Mapping](https://github.com/Kevinolee1/Attack-Surface-Mapping.git)
