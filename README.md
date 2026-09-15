@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/Kevinolee1">CompTIA Security+ | Cybersecurity Analyst | SOC Analyst</a>, 
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/Kevinolee1"> IT Support & Network | Cybersecurity Analyst | SOC Analyst</a>, 
 
 
 ## 🖥️ IT Support & Network Troubleshooting Labs
