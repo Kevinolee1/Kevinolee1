@@ -8,7 +8,7 @@ common Windows, network connectivity, DHCP, DNS, Wi-Fi, and Ethernet issues.
 
 ### 🎥 Network Troubleshooting Demonstrations
 
-- [Troubleshooting a Windows Network Connection](YOUR_VIDEO_LINK)
+- [Troubleshooting a Windows Network Connection](https://youtu.be/BuG4XDDcfW4)
   - Demonstrated a structured troubleshooting process using ipconfig, ping,
     DHCP, default gateway testing, DNS testing, and nslookup.
 
