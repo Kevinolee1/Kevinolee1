@@ -1,5 +1,25 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/Kevinolee1">CompTIA Security+ | Cybersecurity Analyst | SOC Analyst</a>, 
 
+
+## 🖥️ IT Support & Network Troubleshooting Labs
+
+Hands-on IT support projects demonstrating my ability to diagnose and resolve
+common Windows, network connectivity, DHCP, DNS, Wi-Fi, and Ethernet issues.
+
+### 🎥 Network Troubleshooting Demonstrations
+
+- [Troubleshooting a Windows Network Connection](YOUR_VIDEO_LINK)
+  - Demonstrated a structured troubleshooting process using ipconfig, ping,
+    DHCP, default gateway testing, DNS testing, and nslookup.
+
+- [Troubleshooting DHCP and APIPA](YOUR_VIDEO_LINK)
+  - Diagnosed an APIPA address (169.254.x.x), renewed the DHCP lease,
+    verified the default gateway, and tested network connectivity.
+
+- [Troubleshooting DNS Connectivity](YOUR_VIDEO_LINK)
+  - Verified IP connectivity, tested DNS resolution with nslookup,
+    flushed the DNS cache, and confirmed connectivity after remediation.
+    
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Creating SOC + SIEM Home Lab With Microsoft Azura 2026</b>
