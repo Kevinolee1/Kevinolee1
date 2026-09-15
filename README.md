@@ -16,7 +16,7 @@ common Windows, network connectivity, DHCP, DNS, Wi-Fi, and Ethernet issues.
   - Diagnosed an APIPA address (169.254.x.x), renewed the DHCP lease,
     verified the default gateway, and tested network connectivity.
 
-- [Troubleshooting DNS Connectivity](YOUR_VIDEO_LINK)
+- [Troubleshooting DNS Connectivity](https://youtu.be/M1jFz5jsjis)
   - Verified IP connectivity, tested DNS resolution with nslookup,
     flushed the DNS cache, and confirmed connectivity after remediation.
     
