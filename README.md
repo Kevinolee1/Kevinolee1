@@ -19,6 +19,15 @@ common Windows, network connectivity, DHCP, DNS, Wi-Fi, and Ethernet issues.
 - [Troubleshooting DNS Connectivity](https://youtu.be/M1jFz5jsjis)
   - Verified IP connectivity, tested DNS resolution with nslookup,
     flushed the DNS cache, and confirmed connectivity after remediation.
+
+- **Wireshark Packet Analysis Lab**
+
+- Hands-on network traffic investigation using Wireshark to analyze DNS resolution, TCP three-way handshakes, TLS 1.3 communication, encrypted traffic, TCP anomalies, and connection termination.
+
+Skills: Wireshark • Packet Analysis • DNS • TCP/IP • TLS • Network Troubleshooting
+
+-[Wireshark Packet Analysis Lab | Real Network Traffic Investigation](https://youtu.be/n6p41OW_8AU)
+
     
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
