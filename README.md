@@ -1,4 +1,6 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/Kevinolee1"> IT & Networking | SOC/SIEM | Security Automation | Vulnerability Research</a>
+# Hi, I'm Kevin! 👋
+
+### IT & Networking | SOC/SIEM | Security Automation | Vulnerability Research
 
 
 ## 🖥️ IT Support & Network Troubleshooting Labs
