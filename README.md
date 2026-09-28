@@ -106,6 +106,10 @@ SOC L1 and SOC L2 workflows.
 - [SOC L1 Investigation & Escalation](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1.git)
 - [SOC L2 Analysis & Resolution](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2.git)
 
+#### 🌐 Suspicious Network Activity
+- [creating & Assgin to SOC L1](https://github.com/Kevinolee1/SOC-Level-1-Wireshark-TLS-1.3-HTTPS-investigation-ticket.git)
+- [SOC L1 Investigation & Escalation]()
+- [Wireshark Video Investegation]()
 #### 🌐 Suspicious Outbound Connection
 - [Create & Assign to SOC L1](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1.git)
 - [SOC L1 Investigation & Escalation](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Suspicious-Network-Connection-Ticket-as-a-SOC-L1.git)
