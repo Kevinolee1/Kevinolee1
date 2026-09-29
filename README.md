@@ -106,6 +106,7 @@ SOC L1 and SOC L2 workflows.
 - [SOC L1 Investigation & Escalation](https://github.com/Kevinolee1/Analyzing-a-Suspicious-Login-As-a-SOC-L1.git)
 - [SOC L2 Analysis & Resolution](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2.git)
 
+
 #### 🌐 Suspicious Network Activity
 - [creating & Assgin to SOC L1](https://github.com/Kevinolee1/SOC-Level-1-Wireshark-TLS-1.3-HTTPS-investigation-ticket.git)
 - [SOC L1 Investigation Documentation & Closed Ticket](https://github.com/Kevinolee1/SOC-L1-Investigation-Closed-Ticket.git)
@@ -128,6 +129,7 @@ SOC L1 and SOC L2 workflows.
 - [Create & Assign to SOC L1](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1.git)
 - [SOC L1 Investigation & Escalation](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1.git)
 - [SOC L2 Analysis & Resolution](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Potential-Brute-Force-Attack-As-a-SOC-L2.git)
+- [SOC Level 1 Brute Force Investigation Video](https://youtu.be/qY6CgnWA--U)
  
 ## 🤖 Security Automation Projects
 
