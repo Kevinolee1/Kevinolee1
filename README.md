@@ -127,8 +127,7 @@ SOC L1 and SOC L2 workflows.
 
 #### 🚨 Potential Brute Force Attack
 - [Create & Assign to SOC L1](https://github.com/Kevinolee1/Creating-a-Potential-Brute-Force-Attack-ticket-and-Assigning-It-To-a-SOC-L1.git)
-- [SOC L1 Investigation & Escalation](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1.git)
-- [SOC L2 Analysis & Resolution](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Potential-Brute-Force-Attack-As-a-SOC-L2.git)
+- [SOC L1 Investigation & Resolution](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1.git)
 - [SOC Level 1 Brute Force Investigation Video](https://youtu.be/qY6CgnWA--U)
  
 ## 🤖 Security Automation Projects
