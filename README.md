@@ -120,6 +120,7 @@ SOC L1 and SOC L2 workflows.
 #### 🎣 Phishing Alert
 - [Create & Assign to SOC L1](https://github.com/Kevinolee1/Creating-a-Phishing-Alert-ticket-and-assigning-it-to-a-SOC-L1.git)
 - [SOC L1 Investigation & Resolution](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Phishing-Alert-Ticket-as-a-SOC-L1.git)
+- [SOC Level 1 Phishing Investigation Video](https://youtu.be/FXp9rSE_JRk)
 
 #### 🛡️ Vulnerability Detection
 - [Create & Assign to SOC L1](https://github.com/Kevinolee1/Creating-a-Vulnerability-Detected-ticket-and-assigning-it-to-a-SOC-L1.git)
