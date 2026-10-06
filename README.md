@@ -168,3 +168,15 @@ and responsibly disclose potential security vulnerabilities.
 - [Target Selection](https://github.com/Kevinolee1/Target-Selection.git)
 - [Attack Surface Mapping](https://github.com/Kevinolee1/Attack-Surface-Mapping.git)
 - [Static Analysis](https://github.com/Kevinolee1/Static-Analysis.git)
+
+## ☁️ Cloud & Database Projects
+
+### AWS RDS PostgreSQL Deployment & Configuration
+Deployed and configured a PostgreSQL database using Amazon RDS, including VPC networking, security groups, encryption, automated backups, monitoring, storage, and database availability.
+
+➡️ [View AWS RDS PostgreSQL Lab](Cloud-Database-Projects/AWS-RDS-PostgreSQL/)
+
+### AWS RDS PostgreSQL Database Administration
+Performed hands-on PostgreSQL administration on Amazon RDS, including database and table creation, SQL queries, user/role management, permissions, least-privilege access, and secure SSL database connectivity.
+
+➡️ [View PostgreSQL DBA Lab](Cloud-Database-Projects/AWS-RDS-PostgreSQL-Administration/)
