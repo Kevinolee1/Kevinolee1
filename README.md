@@ -182,3 +182,7 @@ Performed hands-on PostgreSQL administration on Amazon RDS, including database a
 ➡️ [View PostgreSQL DBA Lab](https://github.com/Kevinolee1/AWS-RDS-PostgreSQL-Database-Administration.git)
 
 ➡️ [AWS IAM Least Privilege Security](https://github.com/Kevinolee1/AWS-IAM-Least-Privilege-Security.git)
+
+# AWS-Secure-VPC-Network-Architecture
+Hands on AWS cloud networking project focused on designing and building a secure Virtual Private Cloud (VPC) from scratch, including public and private subnets, route tables, internet gateways, security groups, network ACLs, and network isolation using AWS security best practices.
+
