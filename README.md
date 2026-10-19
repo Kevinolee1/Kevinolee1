@@ -191,4 +191,9 @@ Hands on AWS cloud networking project focused on designing and building a secure
 
 ➡️ [AWS Secure VPC Network Architecture](https://github.com/Kevinolee1/AWS-Secure-VPC-Network-Architecture.git)
 
-➡️ [AWS Secure Three Tier Architecture](https://github.com/Kevinolee1/AWS-Secure-Three-Tier-Architecture.git)
+### AWS-Secure-VPC-Network-Architecture
+
+Designed and configured a secure three-tier AWS Virtual Private Cloud (VPC) architecture using public and private subnets, route tables, an internet gateway, security groups, and network ACLs. Implemented network segmentation, least-privilege traffic rules, and isolation between web, application, and database tiers to strengthen cloud network security.
+
+➡️ [AWS Secure VPC Network Architecture](https://github.com/Kevinolee1/AWS-Secure-VPC-Network-Architecture.git)
+
