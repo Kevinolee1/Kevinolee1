@@ -190,3 +190,5 @@ configure identities, groups, policies, and roles, then test authorized and deni
 Hands on AWS cloud networking project focused on designing and building a secure Virtual Private Cloud (VPC) from scratch, including public and private subnets, route tables, internet gateways, security groups, network ACLs, and network isolation using AWS security best practices.
 
 ➡️ [AWS Secure VPC Network Architecture](https://github.com/Kevinolee1/AWS-Secure-VPC-Network-Architecture.git)
+
+➡️ [AWS Secure Three Tier Architecture](https://github.com/Kevinolee1/AWS-Secure-Three-Tier-Architecture.git)
